@@ -21,7 +21,7 @@
     "homepage": "https://github.com/LukasLewandowski/coursedog_recruitment_task#readme",
     "dependencies": {
         "cypress": "^4.8.0",
-        "cypress-cucumber-preprocessor": "^2.5.0",
+        "cypress-cucumber-preprocessor": "^2.5.5",
         "cypress-plugin-retries": "^1.5.2"
     },
     "devDependencies": {
